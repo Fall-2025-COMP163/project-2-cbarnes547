@@ -1,9 +1,9 @@
 """
 COMP 163 - Project 2: Character Abilities Showcase
-Name: [Your Name Here]
-Date: [Date]
+Name: Chloe Barnes
+Date: 11/14/2025
 
-AI Usage: [Document any AI assistance used]
+AI Usage: ChatGPT was used to find any grammatical errors and to help make weapon names for each character class. 
 Example: AI helped with inheritance structure and method overriding concepts
 """
 
