@@ -145,3 +145,8 @@ Feel free to add your own creative touches for bonus points:
 - Additional character classes beyond the three required
 - More weapon types with different properties
 - Enhanced special abilities with unique effects
+
+
+## About my project
+
+My program creates a full character system where I use inheritance to build different classes like Warriors, Mages, and Rogues. I override shared methods so each character type attacks and behaves differently, which lets me demonstrate polymorphism. I also added weapons through composition, allowing characters to equip items that boost their damage. I use a provided battle engine to test stats, attacks, and special abilities in simple fight simulations. Overall, I built a project that shows my understanding of inheritance, method overriding, leveling systems, and unique class abilities working together in one program. The code itself contains character classes, player subclasses, weapon objects, special abilities, and a main test section that runs battles and prints out all results.
